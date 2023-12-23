@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ppgalindof.github.io/sitemap.xml
+Sitemap: https://pgalindof.github.io/sitemap.xml
