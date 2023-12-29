@@ -2,25 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Master's Degree Researcher at <a href='https://www.mackenzie.br/'>  Mackenzie Presbyterian University</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>test your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Let's work together</p>
+    <p>Phone: +55 11 97522-9444</p>
+    <p>São Paulo, SP</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Senior Financial Analyst with experience in financial forecasting, budget management, sensitivity analysis and business unit valuation for large-sized businesses. I have worked at Cogna Educação and Grupo Dasa, which are strong competitors in the education and health sectors, respectively.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My analytical skills are complemented by advanced proficiency in various financial and data modeling tools. I possess expertise in programs such as Excel, Power BI, KNIME, and PowerPoint. Additionally, I am skilled in programming languages such as Python and SQL. Moreover, I have proficiency in other languages not directly related to finance, including LaTeX and HTML.

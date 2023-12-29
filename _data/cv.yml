@@ -2,96 +2,112 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Pedro Paulo Galindo Francisco
     - name: Date of Birth
-      value: 14th March 1879
+      value: 16th October 1995
     - name: Languages
-      value: English, German
+      value: English, Portuguese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Bachelor's Degree in Business Administration
+      institution: Mackenzie Presbyterian University, Sao Paulo, Brazil
+      year: 2017
+    - title: Master's Degree in Strategic Finance
+      institution: Mackenzie Presbyterian University, Sao Paulo, Brazil
+      year: Now
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Master's Dregree Researcher
+      company: Mackenzie Presbyterian University, Sao Paulo, Brazil
+      year: 2023 - Now
+      description: 
+        - Corporate Finance
+        - Econometrics 
+        - Valuation
+        - Behavioural Finance
+        - Sustentability Finance
+
+    - title: Senior Business Intelligence Analyst
+      company: Cogna Educational, Sao Paulo, Brazil
+      year: 2021-2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Preparation of financial feasibility studies for new businesses.
+        - Development of financial analyses for business units (BU's).
+        - Portfolio Discontinuity Analysis.
+        - New Courses Launch Analysis.
+        - Operational Efficiency Analysis.
+
+    - title: FP&A Associate
+      company: DASA Group, Sao Paulo, Brazil
+      year: 2020-2021
+      description: 
+      - P&L analysis for decision-making.
+      - Preparation of the Budget and Forecast with business units.
+      - Conducting cost efficiency analysis (Zero-Base Budget).
+      - Consolidation and analysis of financial KPIs.
+      - Development of Feasibility Studies.
+      - Ad-hoc support for business units and other areas.
+
+    - title: Junior Financial Analyst
+      company: DASA Group, Sao Paulo, Brazil
+      year: 2018 - 2020 
       description:
-        - Description 1.
-        - Description 2.
+      - Billing Analysis.
+      - Development and maintenance of dashboards and KPIs for operational management.
+      - Development of operational analyses for results measurement. (CSC Project)
+      - Preparation of monthly performance KPIs.
+      - Issuance of invoices for billing with the municipality.
+      - Ad-hoc support for other areas.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Intern in Controllership and FP&A
+      company: Sanofi-Aventis, Sao Paulo, Brazil
+      year: 2016 - 2017
       description:
+      - Development and maintenance of planning reports.
+      - Cross-checking of the Database with WRS systems (IMS/MDTR), SAP Business Objects, TM1 (Cognos BI).
+      - Extraction and maintenance of SAP reports.
+      - Support for KPI analysis (SIT, Price and Volume, Gross Margin).
+      - Ad-hoc support for areas - Marketing, Procurement.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Courses
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Advanced Topics in Financial Decisions and Corporate Policy
+      institution: University of La Verne
+      year: 2024
+      description: A course focused on corporate ans strategic finance to help in managment decisions.
+    - title: Corporate Finance & Valuation Program
+      institution: Business Trading Company
+      year: 2022
+      description: A course dedicated to the learning of valuation fundamentals and financial business analyses.
+    - title: Advanced Excel & VBA
+      institution: Work Roads
+      year: 2016
+      description: Lessons of mastering Excel and applying it on a daily job routine.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Personal
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Critical Thinking
+        - Fast Learning
+        - Highly attentive to details
+    - title: Financial and Data Managment Tools
+      items: 
+        - Excel - Advanced
+        - Power Point - Advanced
+        - Power BI - Advanced
+        - KNIME - Advanced
+        - Python - Intermediate
+        - SQL - Intermediate
 
-- title: Other Interests
+- title: Interests / Hobbies
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Interests:</u> Finance & Economics 📈, Philosophy 🌌 and good stories 📜.
+    - <u>Hobbies:</u> Playing Eletric Guitar 🎸, Reading a Book 📖 and trying to write something 📓.
