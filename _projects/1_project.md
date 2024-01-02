@@ -22,6 +22,10 @@ This project involved analysing the financial feasibility of different scenarios
     </div>
 </div>
 
+<div class="caption">
+    Quick image preview of the works done in this section
+</div>
+
 This task initiates with the infrastructure team submitting potential gains and expenses for each possible scenario for approval discussion. In this initial phase, it is necessary to verify the coherence of the provided data and identify any missing information.
 
 <div class="row">
@@ -31,7 +35,7 @@ This task initiates with the infrastructure team submitting potential gains and 
 </div>
 
 <div class="caption">
-    Figure 1. Reviewing the information received from the technical department.
+    Figure 1. Reviewing the information received from the technical department
 </div>
 
 Following this step, the data is incorporated into the financial modelling for a more in-depth valutaion. For each scenario its calculated the expected P&L up to the projected Cash Flow, taking into account items not provided by the infrastructure team but derived from a percentage of Net Revenue, such as Operational Payroll.
@@ -44,7 +48,7 @@ Then its computed the financial indicators that support managerial decision: NPV
     </div>
 </div>
 <div class="caption">
-    P&L and KPI's calculation for each scenario
+    Figure 2. P&L and KPI's calculation for each scenario
 </div>
 
 
@@ -58,7 +62,7 @@ Upon completing the entire process, a presentation is crafted with this informat
     </div>
 </div>
 <div class="caption">
-    NPV Sensitivity Analyses
+    Figure 3. NPV Sensitivity Analyses
 </div>
 
 

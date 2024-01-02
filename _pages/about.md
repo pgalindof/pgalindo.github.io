@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Let's work together</p>
+    <p>Living for a purpose</p>
     <p>Phone: +55 11 97522-9444</p>
     <p>São Paulo, SP</p>
 
