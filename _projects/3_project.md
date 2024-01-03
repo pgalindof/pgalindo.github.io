@@ -25,9 +25,9 @@ This task involved analyzing the creation of a new product related to certificat
     Quick image preview of the works done in this section
 </div>
 
-The processes in this project happen simultaneously and are linked to each other. Until its conclusion, all steps are revisited and adjusted as the discussion evolves.
+The processes in this project happen simultaneously and are interconnected. Until its conclusion, all steps are revisited and adjusted as the discussion evolves.
 
-In this step, we insert the assumptions adopted for the calculations. Part of the information come from external departments, the other part are standard assumptions for this kind of project.
+In this step, we insert the assumptions adopted for the calculations. Part of the information come from external departments, while the other part consists of standard assumptions for this kind of project.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -39,7 +39,7 @@ In this step, we insert the assumptions adopted for the calculations. Part of th
     Figure 1. Established assumptions for the project
 </div>
 
-With the assumptions inputted in the model, we can compute each line in the P&L to get the financial indicators. This project considers the launch of 4 different courses for the certificate program.
+With the assumptions inputted into model, we can compute each line in the P&L to derive the financial indicators. This project involves the launch of four different courses for the certificate program.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -51,7 +51,7 @@ With the assumptions inputted in the model, we can compute each line in the P&L 
 </div>
 
 
-After the calculation of the P&L, its developed different scenarios for presentation and discussion. Depending on what is aligned, either the project is concluded or its made the necessary adjustments.
+After calculating the P&L,  different scenarios are developed for presentation and discussion. Depending on the alignment, either the project is concluded or the necessary adjustments are made.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

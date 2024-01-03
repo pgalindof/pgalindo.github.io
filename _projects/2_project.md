@@ -28,7 +28,7 @@ This report was delivered directly to the head of the financial department. It s
 
 This task initiates with the retrieve of operational data within an oracle database using SQL. 
 
-All the retrieving, adjusting and exporting of this dataset is done on KNIME. KNIME is a integration platform that enables data manipulation across different programs and files, in this case, it is used to retrieve data on Oracle, to adjust it to a optimal standard and generate and CSV file that is sent to power BI.
+All the retrieving, adjusting and exporting of this dataset is done on KNIME. KNIME is a integration platform that enables data manipulation across different programs and files. In this case, it is utilized to retrieve data from Oracle, to adjust it to a optimal format and generate and CSV file that is sent to power BI.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -40,7 +40,7 @@ All the retrieving, adjusting and exporting of this dataset is done on KNIME. KN
     Figure 1. Reviewing the information received from the technical department
 </div>
 
-After the database is correctly loaded, its manipulated with the necessary adjustments, joined with the database sent by the pricing team and generated n a csv file.
+After the database is correctly loaded, its manipulated with the necessary adjustments, joined with the database sent by the pricing team and a CSV file is generated.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -52,9 +52,9 @@ After the database is correctly loaded, its manipulated with the necessary adjus
 </div>
 
 
-Finally, with the adjusted database, its created charts and figures that provide valuable insights for the user. Each KPI can be filtered by region, course, period, partnership and others types of operational filters.
+Finally, with the adjusted database, charts and figures are created to provide valuable insights for the user. Each KPI can be filtered by region, course, period, partnership and others types of operational filters.
 
-In addition, there is buttons that switch each chart with another underneath, allowing for more views and insights.
+In addition, there are buttons that switch each chart with another underneath, allowing for more views and insights.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
