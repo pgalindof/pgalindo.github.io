@@ -11,12 +11,13 @@
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor's Degree in Business Administration
-      institution: Mackenzie Presbyterian University, Sao Paulo, Brazil
-      year: 2017
     - title: Master's Degree in Strategic Finance
       institution: Mackenzie Presbyterian University, Sao Paulo, Brazil
       year: Now
+    - title: Bachelor's Degree in Business Administration
+      institution: Mackenzie Presbyterian University, Sao Paulo, Brazil
+      year: 2017
+    
 
 - title: Experience
   type: time_table
